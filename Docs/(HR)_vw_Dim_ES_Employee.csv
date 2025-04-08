@@ -1,0 +1,290 @@
+﻿EmployeeID,SalesPersonName,JobTitle,HireDate,TenureYears
+25,James Hamilton,Vice President of Production,2/3/2009,16
+26,Peter Krebs,Production Control Manager,12/1/2008,17
+27,Jo Brown,Production Supervisor - WC60,2/27/2008,17
+28,Guy Gilbert,Production Technician - WC60,6/30/2006,19
+24,Jill Williams,Marketing Specialist,1/18/2009,16
+23,Mary Gibson,Marketing Specialist,1/12/2009,16
+22,Sariya Harnpadoungsataya,Marketing Specialist,12/12/2008,17
+21,Terry Eminhizer,Marketing Specialist,3/2/2009,16
+20,Wanida Benshoof,Marketing Assistant,1/7/2011,14
+19,Mary Dempsey,Marketing Assistant,2/14/2011,14
+18,John Wood,Marketing Specialist,2/7/2011,14
+17,Kevin Brown,Marketing Assistant,1/26/2007,18
+16,David Bradley,Marketing Manager,12/20/2007,18
+15,Sharon Salavaria,Design Engineer,1/18/2011,14
+14,Michael Sullivan,Senior Design Engineer,12/30/2010,15
+13,Janice Galvin,Tool Designer,12/23/2010,15
+12,Thierry D'Hers,Tool Designer,12/11/2007,18
+11,Ovidiu Cracium,Senior Tool Designer,12/5/2010,15
+10,Michael Raheem,Research and Development Manager,5/3/2009,16
+9,Gigi Matthew,Research and Development Engineer,1/16/2009,16
+8,Diane Margheim,Research and Development Engineer,12/29/2008,17
+7,Dylan Miller,Research and Development Manager,2/8/2009,16
+6,Jossef Goldberg,Design Engineer,1/24/2008,17
+5,Gail Erickson,Design Engineer,1/6/2008,17
+4,Rob Walters,Senior Tool Designer,12/5/2007,18
+3,Roberto Tamburello,Engineering Manager,11/11/2007,18
+2,Terri Duffy,Vice President of Engineering,1/31/2008,17
+1,Ken Sánchez,Chief Executive Officer,1/14/2009,16
+29,Mark McArthur,Production Technician - WC60,1/23/2009,16
+30,Britta Simon,Production Technician - WC60,1/29/2009,16
+31,Margie Shoop,Production Technician - WC60,1/4/2009,16
+32,Rebecca Laszlo,Production Technician - WC60,12/29/2008,17
+33,Annik Stahl,Production Technician - WC60,12/17/2008,17
+34,Suchitra Mohan,Production Technician - WC60,2/16/2009,16
+35,Brandon Heidepriem,Production Technician - WC60,2/8/2009,16
+36,Jose Lugo,Production Technician - WC60,2/10/2009,16
+37,Chris Okelberry,Production Technician - WC60,3/7/2009,16
+38,Kim Abercrombie,Production Technician - WC60,1/16/2010,15
+39,Ed Dudenhoefer,Production Technician - WC60,2/5/2010,15
+40,JoLynn Dobney,Production Supervisor - WC60,12/26/2007,18
+41,Bryan Baker,Production Technician - WC60,1/21/2009,16
+42,James Kramer,Production Technician - WC60,12/27/2008,17
+54,Bonnie Kearney,Production Technician - WC10,1/1/2010,15
+68,Charles Fitzgerald,Production Technician - WC60,12/3/2009,16
+69,Steve Masters,Production Technician - WC60,2/15/2009,16
+70,David Ortiz,Production Technician - WC60,12/15/2008,17
+55,Taylor Maxwell,Production Supervisor - WC50,2/8/2008,17
+56,Denise Smith,Production Technician - WC50,2/5/2009,16
+43,Nancy Anderson,Production Technician - WC60,1/2/2009,16
+44,Simon Rapier,Production Technician - WC60,12/8/2008,17
+45,Thomas Michaels,Production Technician - WC60,2/26/2009,16
+46,Eugene Kogan,Production Technician - WC60,2/8/2009,16
+47,Andrew Hill,Production Supervisor - WC10,2/22/2009,16
+48,Ruth Ellerbrock,Production Technician - WC10,1/6/2008,17
+49,Barry Johnson,Production Technician - WC10,1/7/2008,17
+50,Sidney Higa,Production Technician - WC10,2/2/2008,17
+51,Jeffrey Ford,Production Technician - WC10,2/20/2008,17
+52,Doris Hartwig,Production Technician - WC10,3/10/2008,17
+53,Diane Glimp,Production Technician - WC10,3/28/2008,17
+57,Frank Miller,Production Technician - WC50,2/23/2009,16
+58,Kendall Keil,Production Technician - WC50,12/5/2008,17
+59,Bob Hohman,Production Technician - WC50,12/24/2008,17
+60,Pete Male,Production Technician - WC50,1/11/2009,16
+61,Diane Tibbott,Production Technician - WC50,1/18/2009,16
+62,John Campbell,Production Supervisor - WC60,3/17/2008,17
+63,Maciej Dusza,Production Technician - WC60,1/29/2010,15
+64,Michael Zwilling,Production Technician - WC60,2/23/2010,15
+65,Randy Reeves,Production Technician - WC60,2/23/2010,15
+66,Karan Khanna,Production Technician - WC60,12/22/2009,16
+94,Russell Hunter,Production Technician - WC50,12/12/2008,17
+95,Jim Scardelis,Production Technician - WC50,12/19/2008,17
+96,Elizabeth Keyser,Production Technician - WC50,3/2/2009,16
+97,Mandar Samant,Production Technician - WC50,2/10/2009,16
+98,Sameer Tejani,Production Technician - WC50,2/11/2009,16
+67,Jay Adams,Production Technician - WC60,3/5/2009,16
+71,Michael Ray,Production Supervisor - WC30,2/15/2009,16
+72,Steven Selikoff,Production Technician - WC30,12/1/2008,17
+73,Carole Poland,Production Technician - WC30,12/19/2008,17
+85,Brian Goldstein,Production Technician - WC40,12/11/2009,16
+86,Ryan Cornelsen,Production Technician - WC40,1/5/2009,16
+87,Cristian Petculescu,Production Supervisor - WC10,12/22/2008,17
+88,Betsy Stadick,Production Technician - WC10,12/18/2009,16
+89,Patrick Wedge,Production Technician - WC10,2/1/2010,15
+90,Danielle Tiedt,Production Technician - WC10,2/20/2010,15
+109,Alice Ciccu,Production Technician - WC50,12/7/2008,17
+110,Jun Cao,Production Technician - WC50,12/14/2008,17
+111,Suroor Fatima,Production Technician - WC50,12/17/2008,17
+112,John Evans,Production Technician - WC50,1/1/2009,16
+91,Kimberly Zimmerman,Production Technician - WC10,1/12/2010,15
+92,Tom Vande Velde,Production Technician - WC10,3/10/2010,15
+115,Angela Barbariol,Production Technician - WC50,1/20/2009,16
+116,Michael Patten,Production Technician - WC50,1/31/2009,16
+117,Chad Niswonger,Production Technician - WC50,2/18/2009,16
+118,Don Hall,Production Technician - WC50,2/13/2009,16
+119,Michael Entin,Production Technician - WC50,2/25/2009,16
+120,Kitti Lertpiriyasuwat,Production Technician - WC50,3/4/2009,16
+121,Pilar Ackerman,Shipping and Receiving Supervisor,1/2/2009,16
+122,Susan Eaton,Stocker,12/7/2008,17
+123,Vamsi Kuppa,Shipping and Receiving Clerk,12/7/2008,17
+124,Kim Ralls,Stocker,12/26/2008,17
+125,Matthias Berndt,Shipping and Receiving Clerk,1/20/2009,16
+126,Jimmy Bischoff,Stocker,2/26/2009,16
+93,Kok-Ho Loh,Production Supervisor - WC50,12/27/2008,17
+74,Bjorn Rettig,Production Technician - WC30,1/7/2009,16
+129,Gary Yukish,Production Technician - WC40,12/22/2008,17
+130,Rob Caron,Production Technician - WC40,2/13/2009,16
+131,Baris Cetinok,Production Technician - WC40,2/15/2009,16
+132,Nicole Holliday,Production Technician - WC40,2/22/2009,16
+133,Michael Rothkugel,Production Technician - WC40,1/10/2009,16
+134,Eric Gubbels,Production Supervisor - WC20,1/14/2009,16
+135,Ivo Salmre,Production Technician - WC20,12/4/2008,17
+136,Sylvester Valdez,Production Technician - WC20,12/11/2009,16
+137,Anibal Sousa,Production Technician - WC20,2/23/2009,16
+138,Samantha Smith,Production Technician - WC20,2/4/2009,16
+139,Hung-Fu Ting,Production Technician - WC20,1/6/2010,15
+140,Prasanna Samarawickrama,Production Technician - WC20,1/22/2010,15
+75,Michiko Osada,Production Technician - WC30,1/26/2009,16
+76,Carol Philips,Production Technician - WC30,2/12/2009,16
+77,Merav Netz,Production Technician - WC30,3/3/2009,16
+144,Paul Singh,Production Technician - WC20,1/17/2009,16
+145,Cynthia Randall,Production Supervisor - WC30,1/27/2009,16
+146,Jian Shuo Wang,Production Technician - WC30,12/7/2008,17
+147,Sandra Reátegui Alayo,Production Technician - WC30,12/26/2008,17
+148,Jason Watters,Production Technician - WC30,1/14/2009,16
+149,Andy Ruth,Production Technician - WC30,1/31/2009,16
+150,Michael Vanderhyde,Production Technician - WC30,2/26/2009,16
+151,Rostislav Shabalin,Production Technician - WC30,2/19/2009,16
+152,Yuhong Li,Production Supervisor - WC20,2/1/2009,16
+153,Hanying Feng,Production Technician - WC20,12/16/2008,17
+154,Raymond Sam,Production Technician - WC20,12/23/2008,17
+78,Reuben D'sa,Production Supervisor - WC40,12/15/2008,17
+79,Eric Brown,Production Technician - WC40,1/24/2010,15
+80,Sandeep Kaliyath,Production Technician - WC40,1/17/2010,15
+158,Shelley Dyck,Production Technician - WC20,3/7/2009,16
+159,Terrence Earls,Production Technician - WC20,2/16/2009,16
+160,Jeff Hay,Production Supervisor - WC45,1/21/2009,16
+161,Kirk Koenigsbauer,Production Technician - WC45,12/15/2008,17
+162,Laura Steele,Production Technician - WC45,1/3/2009,16
+163,Alex Nayberg,Production Technician - WC45,2/8/2009,16
+164,Andrew Cencini,Production Technician - WC45,3/6/2009,16
+165,Chris Preston,Production Technician - WC45,1/22/2009,16
+166,Jack Richins,Production Supervisor - WC30,2/21/2009,16
+167,David Johnson,Production Technician - WC30,12/2/2008,17
+168,Garrett Young,Production Technician - WC30,12/7/2008,17
+81,Mihail Frintu,Production Technician - WC40,12/29/2009,16
+82,Jack Creasey,Production Technician - WC40,3/3/2010,15
+83,Patrick Cook,Production Technician - WC40,2/12/2010,15
+172,Marc Ingle,Production Technician - WC30,1/16/2009,16
+173,Eugene Zabokritski,Production Technician - WC30,1/21/2009,16
+174,Benjamin Martin,Production Technician - WC30,1/27/2009,16
+175,Reed Koch,Production Technician - WC30,2/2/2009,16
+176,David Lawrence,Production Technician - WC30,2/14/2009,16
+177,Russell King,Production Technician - WC30,2/21/2009,16
+178,John Frum,Production Technician - WC30,3/3/2009,16
+179,Jan Miksovsky,Production Technician - WC30,3/5/2009,16
+180,Katie McAskill-White,Production Supervisor - WC20,2/20/2009,16
+181,Michael Hines,Production Technician - WC20,12/9/2008,17
+182,Nitin Mirchandani,Production Technician - WC20,12/28/2008,17
+84,Frank Martinez,Production Technician - WC40,2/5/2010,15
+101,Houman Pournasseh,Production Technician - WC50,1/25/2009,16
+185,Stefen Hesse,Production Technician - WC20,2/28/2009,16
+186,Shane Kim,Production Supervisor - WC45,2/8/2009,16
+187,Yvonne McKay,Production Technician - WC45,12/9/2008,17
+188,Douglas Hite,Production Technician - WC45,12/27/2008,17
+189,Janeth Esteves,Production Technician - WC45,1/15/2009,16
+190,Robert Rounthwaite,Production Technician - WC45,2/2/2009,16
+191,Lionel Penuchot,Production Technician - WC45,2/26/2009,16
+192,Brenda Diaz,Production Supervisor - WC40,3/5/2009,16
+193,Alejandro McGuel,Production Technician - WC40,12/6/2008,17
+194,Fred Northup,Production Technician - WC40,12/12/2008,17
+195,Kevin Liu,Production Technician - WC40,12/17/2008,17
+196,Shammi Mohamed,Production Technician - WC40,12/24/2008,17
+102,Zheng Mu,Production Supervisor - WC10,12/3/2008,17
+103,Ebru Ersan,Production Technician - WC10,12/6/2009,16
+199,Paula Nartker,Production Technician - WC40,1/12/2009,16
+200,Frank Lee,Production Technician - WC40,1/17/2009,16
+201,Brian Lloyd,Production Technician - WC40,1/29/2009,16
+202,Tawana Nusbaum,Production Technician - WC40,2/5/2009,16
+203,Ken Myer,Production Technician - WC40,2/24/2009,16
+204,Gabe Mares,Production Technician - WC40,3/8/2009,16
+205,Lori Kane,Production Supervisor - WC45,2/26/2009,16
+206,Stuart Munson,Production Technician - WC45,12/2/2008,17
+207,Greg Alderson,Production Technician - WC45,12/2/2008,17
+208,Scott Gode,Production Technician - WC45,1/8/2009,16
+209,Kathie Flood,Production Technician - WC45,1/27/2009,16
+210,Belinda Newman,Production Technician - WC45,2/20/2009,16
+104,Mary Baker,Production Technician - WC10,12/25/2009,16
+105,Kevin Homer,Production Technician - WC10,12/25/2009,16
+106,John Kane,Production Technician - WC10,2/27/2010,15
+214,Andreas Berglund,Quality Assurance Technician,2/2/2009,16
+215,Mark Harrington,Quality Assurance Technician,1/15/2009,16
+216,Sean Alexander,Quality Assurance Technician,12/28/2008,17
+217,Zainal Arifin,Document Control Manager,1/4/2009,16
+218,Tengiz Kharatishvili,Control Specialist,12/16/2008,17
+219,Sean Chai,Document Control Assistant,1/22/2009,16
+220,Karen Berge,Document Control Assistant,2/9/2009,16
+221,Chris Norred,Control Specialist,3/6/2009,16
+222,A. Scott Wright,Master Scheduler,12/12/2008,17
+223,Sairaj Uddin,Scheduling Assistant,1/26/2009,16
+224,William Vong,Scheduling Assistant,1/7/2009,16
+107,Christopher Hill,Production Technician - WC10,2/8/2010,15
+108,Jinghao Liu,Production Supervisor - WC50,12/8/2008,17
+113,Linda Moschell,Production Technician - WC50,12/25/2008,17
+114,Mindaugas Krapauskas,Production Technician - WC50,1/13/2009,16
+229,Lori Penor,Janitor,2/16/2010,15
+230,Stuart Macrae,Janitor,3/5/2010,15
+231,Jo Berry,Janitor,3/7/2010,15
+232,Pat Coleman,Janitor,1/27/2010,15
+233,Magnus Hedlund,Facilities Administrative Assistant,12/21/2009,16
+234,Laura Norman,Chief Financial Officer,1/31/2009,16
+235,Paula Barreto de Mattos,Human Resources Manager,12/6/2008,17
+236,Grant Culbertson,Human Resources Administrative Assistant,2/25/2009,16
+237,Hao Chen,Human Resources Administrative Assistant,2/6/2009,16
+238,Vidur Luthra,Recruiter,1/1/2009,16
+127,David Hamilton,Production Supervisor - WC40,1/3/2009,16
+128,Paul Komosinski,Production Technician - WC40,12/4/2008,17
+99,Nuan Yu,Production Technician - WC50,1/6/2009,16
+242,Deborah Poe,Accounts Receivable Specialist,12/18/2008,17
+243,Candy Spoon,Accounts Receivable Specialist,1/6/2009,16
+244,Bryan Walton,Accounts Receivable Specialist,1/24/2009,16
+245,Barbara Moreland,Accountant,2/18/2009,16
+246,Dragan Tomic,Accounts Payable Specialist,2/11/2009,16
+247,Janet Sheperdigian,Accounts Payable Specialist,3/1/2009,16
+248,Mike Seamans,Accountant,3/8/2009,16
+249,Wendy Kahn,Finance Manager,12/25/2008,17
+250,Sheela Word,Purchasing Manager,2/25/2011,14
+251,Mikael Sandberg,Buyer,2/10/2009,16
+252,Arvind Rao,Buyer,2/28/2009,16
+100,Lolan Song,Production Technician - WC50,1/12/2009,16
+141,Min Su,Production Technician - WC20,1/24/2010,15
+142,Olinda Turner,Production Technician - WC20,3/4/2010,15
+256,Frank Pellow,Buyer,1/23/2010,15
+257,Eric Kurjan,Buyer,1/27/2010,15
+258,Erin Hagens,Buyer,1/31/2010,15
+259,Ben Miller,Buyer,3/9/2010,15
+260,Annette Hill,Purchasing Assistant,12/6/2010,15
+261,Reinout Hillmann,Purchasing Assistant,12/25/2010,15
+262,David Barber,Assistant to the Chief Financial Officer,1/12/2009,16
+263,Jean Trenary,Information Services Manager,12/11/2008,17
+264,Stephanie Conroy,Network Manager,2/4/2009,16
+265,Ashvini Sharma,Network Administrator,12/4/2008,17
+266,Peter Connelly,Network Administrator,2/23/2009,16
+143,Krishna Sunkammurali,Production Technician - WC20,2/13/2010,15
+155,Fadi Fakhouri,Production Technician - WC20,1/4/2009,16
+156,Lane Sacksteder,Production Technician - WC20,1/11/2009,16
+270,François Ajenstat,Database Administrator,1/17/2009,16
+271,Dan Wilson,Database Administrator,1/22/2009,16
+272,Janaina Bueno,Application Specialist,12/23/2008,17
+273,Brian Welcker,Vice President of Sales,2/15/2011,14
+274,Stephen Jiang,North American Sales Manager,1/4/2011,14
+275,Michael Blythe,Sales Representative,5/31/2011,14
+276,Linda Mitchell,Sales Representative,5/31/2011,14
+277,Jillian Carson,Sales Representative,5/31/2011,14
+278,Garrett Vargas,Sales Representative,5/31/2011,14
+279,Tsvi Reiter,Sales Representative,5/31/2011,14
+280,Pamela Ansman-Wolfe,Sales Representative,5/31/2011,14
+157,Linda Randall,Production Technician - WC20,2/3/2009,16
+282,José Saraiva,Sales Representative,5/31/2011,14
+283,David Campbell,Sales Representative,5/31/2011,14
+284,Tete Mensa-Annan,Sales Representative,9/30/2012,13
+285,Syed Abbas,Pacific Sales Manager,3/14/2013,12
+286,Lynn Tsoflias,Sales Representative,5/30/2013,12
+287,Amy Alberts,European Sales Manager,4/16/2012,13
+288,Rachel Valdez,Sales Representative,5/30/2013,12
+289,Jae Pak,Sales Representative,5/30/2012,13
+290,Ranjit Varkey Chudukatil,Sales Representative,5/30/2012,13
+169,Susan Metters,Production Technician - WC30,12/14/2008,17
+170,George Li,Production Technician - WC30,12/21/2008,17
+171,David Yalovsky,Production Technician - WC30,1/2/2009,16
+197,Rajesh Patel,Production Technician - WC40,12/31/2008,17
+198,Lorraine Nay,Production Technician - WC40,1/4/2009,16
+211,Hazem Abolrous,Quality Assurance Manager,2/28/2009,16
+212,Peng Wu,Quality Assurance Supervisor,12/9/2008,17
+213,Sootha Charncherngkha,Quality Assurance Technician,2/23/2010,15
+225,Alan Brewer,Scheduling Assistant,2/13/2009,16
+226,Brian LaMee,Scheduling Assistant,3/3/2009,16
+227,Gary Altman,Facilities Manager,12/2/2009,16
+228,Christian Kleinerman,Maintenance Supervisor,12/14/2008,17
+239,Mindy Martin,Benefits Specialist,12/25/2008,17
+240,Willis Johnson,Recruiter,12/13/2008,17
+241,David Liu,Accounts Manager,1/30/2009,16
+253,Linda Meisner,Buyer,12/17/2009,16
+254,Fukiko Ogisu,Buyer,1/4/2010,15
+255,Gordon Hee,Buyer,1/11/2010,15
+267,Karen Berg,Application Specialist,2/16/2009,16
+268,Ramesh Meyyappan,Application Specialist,2/3/2009,16
+269,Dan Bacon,Application Specialist,1/11/2009,16
+281,Shu Ito,Sales Representative,5/31/2011,14
+183,Barbara Decker,Production Technician - WC20,1/22/2009,16
