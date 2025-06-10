@@ -21,7 +21,7 @@ Two Tableau dashboards were created to visualize and interact with these insight
 - [Employee Dashboard](https://public.tableau.com/app/profile/amr.alesseily/viz/SupplyFinancialEmployeeAnalysis/EmployeeDashboard)  
 - [Sales & Customer Segmentation Dashboard](https://public.tableau.com/app/profile/amr.alesseily/viz/CustomerSegmentationSalesAnalysis_17441167184710/SalesDashboard)
 
-### 📸 Dashboard Screenshots
+### Dashboard Screenshots
 
 **Sales & Segmentation Dashboard**  
 ![Sales Dashboard](/Docs/Images/Sales%20Dash.jpeg)
@@ -33,7 +33,7 @@ Two Tableau dashboards were created to visualize and interact with these insight
 
 
 
-## 🚧 Challenges
+## Challenges
 
 - The AdventureWorks database is highly normalized, requiring multiple JOINs to consolidate product, order, and customer data.
 - Profit margin analysis was limited by the lack of cost or unit price data.
@@ -41,7 +41,7 @@ Two Tableau dashboards were created to visualize and interact with these insight
 
 
 
-## 🎩 Cool Techniques Used
+## Cool Techniques Used
 
 - **Time Series Analysis**: Aggregated `OrderDate` using `DATETRUNC(MONTH, OrderDate)` to identify trends.
 - **RFM Customer Segmentation**:
@@ -55,7 +55,7 @@ Two Tableau dashboards were created to visualize and interact with these insight
 
 
 
-## 🔍 What Else I Might Have Done
+## What Else I Might Have Done
 
 - Integrated product cost data to measure **profitability** instead of just revenue.
 - Built a **churn prediction model** using classification algorithms in Python.
@@ -63,7 +63,7 @@ Two Tableau dashboards were created to visualize and interact with these insight
 - Expanded dashboards with territory-based filtering and dynamic date controls.
 
 
-### 🗃️ Data Sources
+### Data Sources
 The analysis was based on the following tables from the AdventureWorks database:
 - `Production.Product`
 - `Sales.SalesOrderDetail`, `Sales.SalesOrderHeader`
@@ -72,7 +72,7 @@ The analysis was based on the following tables from the AdventureWorks database:
 - `Sales.SalesTerritory`, `Person.CountryRegion`, `Person.StateProvince`
 
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - **SQL Server Management Studio (SSMS)**
 - **T-SQL**
 - **AdventureWorks Database**
